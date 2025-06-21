@@ -11,7 +11,7 @@ Graduated in Information Systems and specialist in software quality assurance, I
   
 </div>
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dionni-Js" height="30" width="40" src="https://yt3.ggpht.com/ytc/AIdro_m_CSqTP74WHm2JPi0Jdw0OapBKJ5NhHce6kl2o0qCAMA=s68-c-k-c0x00ffffff-no-rj">
@@ -26,8 +26,22 @@ Graduated in Information Systems and specialist in software quality assurance, I
           
 </div>
 
-## 🏢 My experience 
+### 🏢 Experience
+Being a junior software tester at Wipro Outscoucing is my first professional position strictly in QA area. Today I work as QA Engineer at Foton Informática and I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the developers. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
 
-Being a junior software tester at Wipro Outscoucing is my first professional position strictly in QA area, and today I work as QA Engineer at Foton Informática. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the developers. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+### 🧠 Soft skills 
+Precision
+<br>Leadership
+<br>Communication
+<br>Assertiveness
+<br>Patience
+<br>Empathy
+
+### 👩‍💻 Certificates 
+Cetified Tester Foundation Level - Agile Tester - CTFL-AT
+<br>Cetified Tester Foundation Level - CTFL
+<br>Certified professional for requirements engineering - CPRE-FL 
+<br>Scrum Fundamentals
+
 
 
