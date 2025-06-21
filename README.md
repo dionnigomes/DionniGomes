@@ -26,4 +26,8 @@ Graduated in Information Systems and specialist in software quality assurance, I
           
 </div>
 
+## 🏢 My experience 
+
+Being a junior software tester at Wipro Outscoucing is my first professional position strictly in QA area, and today I work as QA Engineer at Foton Informática. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the developers. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+
 
